@@ -1,0 +1,10 @@
+{
+  "SMTP_EMAIL": "",
+  "SMTP_PASSWORD": "",
+  "SMTP_SERVER": "",
+  "SMTP_PORT": 25,
+  "SLACK_WEBHOOK": "token",
+  "CHATWORK_TOKEN": "token",
+  "ROOM_ID": "token",
+  "LISTEN": ":8000"
+}
